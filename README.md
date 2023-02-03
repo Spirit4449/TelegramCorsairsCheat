@@ -10,5 +10,10 @@ You can also use the telegram web version: https://web.telegram.org/
 
 ## Steps
 1. Open the console (CTRL + SHIFT + I) or press insepct
-2. Paste in the code found in cheat.js
+2. Paste in the code found in **cheat.js** and press 'enter'
 3. Now play the game
+
+#### Note
+You must start the game after pasting in the code
+Don't change the speed too low otherwise the game will never end
+Don't mess with the other values otherwise the game will not save
